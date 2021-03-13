@@ -1,4 +1,4 @@
-package com.syntax.classs12;
+package com.syntax.class12;
 
 public class TaskSixGroupProject {
 	public static void main(String[] args) {
